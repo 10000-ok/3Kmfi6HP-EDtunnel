@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "indo.kozel.my.id"
 custom_domain = true
 [[routes]]
-pattern "api24-normal.tiktokv.com.kozel.my.id"
+pattern = "api24-normal.tiktokv.com.kozel.my.id"
 custom_domain = true
 [[routes]]
 pattern = "api24-normal.tiktokv.com.kozel.my.id"
